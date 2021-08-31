@@ -4,10 +4,10 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 9198504000052830509
-    second: Bullet2
+    second: Ship
   - first:
       213: 8879747714621758752
-    second: Ship2
+    second: Bullet
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -109,15 +109,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bullet2
+      name: Ship
       rect:
         serializedVersion: 2
-        x: 275
-        y: 636
-        width: 82
-        height: 84
+        x: 0
+        y: 108
+        width: 623
+        height: 612
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -130,15 +130,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ship2
+      name: Bullet
       rect:
         serializedVersion: 2
-        x: 4
+        x: 270
         y: 0
-        width: 623
-        height: 612
+        width: 82
+        height: 84
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
